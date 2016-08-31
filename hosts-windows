@@ -1,0 +1,14 @@
+127.0.0.1 media-match.com
+127.0.0.1 adclick.g.doublecklick.net
+127.0.0.1 open.spotify.com
+127.0.0.1 desktop.spotify.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 audio2.spotify.com
+127.0.0.1 www.omaze.com
+127.0.0.1 omaze.com
+127.0.0.1 bounceexchange.com
+# SPOTIFY ADS BEGIN #
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 spclient.wg.spotify.com
+
+# SPOTIFY ADS END #
