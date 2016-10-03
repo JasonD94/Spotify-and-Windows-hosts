@@ -12,3 +12,5 @@
 0.0.0.0 spclient.wg.spotify.com
 
 # SPOTIFY ADS END #
+
+File Host Di Windows 10: %windir%\System32\drivers\etc\
